@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hava Durumu App</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <div id="selectContainer" class="container">
+        <select id="ilSec" class="form-select" aria-label="Default select example">
+            <option disabled selected>İl Seçiniz</option>
+        </select>
+        <select id="ilceSec" class="form-select" aria-label="Default select example">
+            <option disabled selected>İlçe Seçiniz</option>
+            <option style="background-color: #836958; color: white; font-weight: bold;">İlçe seçme - Boş bırak</option>
+        </select>
+        <button id="gosterButton" type="button" class="btn">Göster</button>
+    </div>
+    <div id="resultDiv">
+    </div>
+    <script src="assets/js/app.js"></script>
+</body>
+</html>

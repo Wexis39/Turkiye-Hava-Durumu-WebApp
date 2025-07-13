@@ -1,0 +1,114 @@
+{
+  "0": {
+    "description": "Açık Hava",
+    "icon_class": "wi wi-day-sunny"
+  },
+  "1": {
+    "description": "Genellikle Açık",
+    "icon_class": "wi wi-day-sunny-overcast"
+  },
+  "2": {
+    "description": "Parçalı Bulutlu",
+    "icon_class": "wi wi-day-cloudy"
+  },
+  "3": {
+    "description": "Bulutlu",
+    "icon_class": "wi wi-cloudy"
+  },
+  "45": {
+    "description": "Sisli",
+    "icon_class": "wi wi-fog"
+  },
+  "48": {
+    "description": "Donmuş Sis",
+    "icon_class": "wi wi-fog"
+  },
+  "51": {
+    "description": "Hafif Çiseleme",
+    "icon_class": "wi wi-sprinkle"
+  },
+  "53": {
+    "description": "Orta Şiddette Çiseleme",
+    "icon_class": "wi wi-sprinkle"
+  },
+  "55": {
+    "description": "Yoğun Çiseleme",
+    "icon_class": "wi wi-sprinkle"
+  },
+  "56": {
+    "description": "Hafif Donan Çiseleme",
+    "icon_class": "wi wi-rain-mix"
+  },
+  "57": {
+    "description": "Yoğun Donan Çiseleme",
+    "icon_class": "wi wi-rain-mix"
+  },
+  "61": {
+    "description": "Hafif Yağmur",
+    "icon_class": "wi wi-rain"
+  },
+  "63": {
+    "description": "Yağmur",
+    "icon_class": "wi wi-rain"
+  },
+  "65": {
+    "description": "Şiddetli Yağmur",
+    "icon_class": "wi wi-rain"
+  },
+  "66": {
+    "description": "Hafif Donan Yağmur",
+    "icon_class": "wi wi-rain-mix"
+  },
+  "67": {
+    "description": "Yoğun Donan Yağmur",
+    "icon_class": "wi wi-rain-mix"
+  },
+  "71": {
+    "description": "Hafif Kar",
+    "icon_class": "wi wi-snow"
+  },
+  "73": {
+    "description": "Kar",
+    "icon_class": "wi wi-snow"
+  },
+  "75": {
+    "description": "Yoğun Kar",
+    "icon_class": "wi wi-snow"
+  },
+  "77": {
+    "description": "Kar Taneleri",
+    "icon_class": "wi wi-snow"
+  },
+  "80": {
+    "description": "Hafif Sağanak",
+    "icon_class": "wi wi-showers"
+  },
+  "81": {
+    "description": "Sağanak",
+    "icon_class": "wi wi-showers"
+  },
+  "82": {
+    "description": "Yoğun Sağanak",
+    "icon_class": "wi wi-showers"
+  },
+  "85": {
+    "description": "Hafif Kar Sağanağı",
+    "icon_class": "wi wi-snow"
+  },
+  "86": {
+    "description": "Kar Sağanağı",
+    "icon_class": "wi wi-snow"
+  },
+  "95": {
+    "description": "Gök Gürültülü Sağanak",
+    "icon_class": "wi wi-thunderstorm"
+  },
+  "96": {
+    "description": "Hafif Dolu Fırtınası",
+    "icon_class": "wi wi-thunderstorm"
+  },
+  "99": {
+    "description": "Şiddetli Dolu Fırtınası",
+    "icon_class": "wi wi-thunderstorm"
+  }
+}
