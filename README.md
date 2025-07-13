@@ -2,12 +2,14 @@
 
 <b>Kullanilan Ucretsiz API ler:</b>
 
-Turkiye il ve ilce API: "https://turkiyeapi.dev"<br>
-Coğrafi konum (geocoding) servis API: "https://nominatim.openstreetmap.org"<br>
-Konuma bagli hava durumu bulma API: "https://api.open-meteo.com"<br>
+Turkiye il ve ilce API: "https://turkiyeapi.dev"
+
+Coğrafi konum (geocoding) servis API: "https://nominatim.openstreetmap.org"
+
+Konuma bagli hava durumu bulma API: "https://api.open-meteo.com"
 
 -222 Adet hava durumu font icon servisi: "https://erikflowers.github.io/weather-icons"<br>
-CDN: "<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">"
+CDN: "rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css""
 
 Tum api ler ucretsiz ve key'siz olarak calisabilmekte. Bu web uygulamasi tum il ve bu illere bagli olan ilce'ler icin 7 gunluk hava durumu bilgilerini gosterebilir.<br>
 <b>Web uygulamasinda olan hava durumu bilgileri:</b><br>
