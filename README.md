@@ -12,6 +12,7 @@ Konuma bagli hava durumu bulma API: "https://api.open-meteo.com"
 CDN: "rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css""
 
 Tum api ler ucretsiz ve key'siz olarak calisabilmekte. Bu web uygulamasi tum il ve bu illere bagli olan ilce'ler icin 7 gunluk hava durumu bilgilerini gosterebilir.<br>
+
 <b>Web uygulamasinda olan hava durumu bilgileri:</b><br>
 -Gunluk ortalama sicaklik<br>
 -Gunluk minimum ve maximum sicaklik<br>
